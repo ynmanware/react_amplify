@@ -1,3 +1,14 @@
+Demo app - AWS Amplify 
+
+The Amplify Framework provides a set of libraries and UI components and a command line interface to build mobile backends and integrate with your iOS, Android, Web, and React Native apps. 
+The Amplify CLI allows you to configure all the services needed to power your backend through a simple command line interface. 
+The Amplify library makes it easy to integrate your code with your backend using declarative interfaces and simple UI components.
+
+You do not need to write backend at all. You select storage and schema, AWS Amplify generated the backend code. 
+Then you just use the API in you react app. 
+
+https://docs.amplify.aws/start/getting-started/installation/q/integration/react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
